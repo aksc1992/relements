@@ -24,7 +24,7 @@
   "author": "Pratham Agrawal",
   "license": "MIT",
   "dependencies": {
-    "@babel/polyfill": "^7.4.4",
+    "@babel/polyfill": "^7.10.4",
     "@mdx-js/loader": "^1.0.21",
     "fuse.js": "^3.4.4",
     "jsx-to-string": "^1.4.0",
